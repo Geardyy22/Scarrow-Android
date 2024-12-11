@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Log In</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="log_in_to_your_account">Log in to your account</string>
+    <string name="example_email_com">example@email.com</string>
+    <string name="password">Password</string>
+    <string name="welcome_to">WELCOME TO</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="or_continue_with">Or Continue With</string>
+    <string name="full_name">Full Name</string>
+    <string name="create_your_new_account">Create your new account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="title_activity_login_page">LoginPage</string>
+    <string name="devices">Devices</string>
+    <string name="get_startedz">Get Started</string>
+    <string name="device_1">Device 1</string>
+    <string name="device_2">Device 2</string>
+    <string name="device_3">Device 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
